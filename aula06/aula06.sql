@@ -1,3 +1,5 @@
+CREATE DATABASE aula06_npxi;
+
 -- Atalho para execução ==> F5
 SELECT now();
 
